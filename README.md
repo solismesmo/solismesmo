@@ -29,12 +29,12 @@ I'm excited about the opportunities that lie ahead as I continue to expand my kn
 
 Thank you for taking the time to learn about my skills. 
 
-# 🌐 Socials:
+# 📩 Contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solismesmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisleycosta)  
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=solismesmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=solismesmo&theme=neon&hide_border=false"  width="400px" />
+# 🔥 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=solismesmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=solismesmo&theme=dark&hide_border=false"  width="400px" />
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=solismesmo&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=solismesmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
