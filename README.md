@@ -1,6 +1,6 @@
 # 👋 Hello, World! 🇧🇷
 
-I'm Lisley Costa, but you can call me just Lis. A data analysis and tech enthusiast. I currently study software engineering at 42 São Paulo (École 42 in São Paulo - SP, Brazil). </br>
+I'm Lisley Costa, but you can call me just Lis. A data analysis and tech enthusiast. I currently study software engineering at 🇫🇷 [École 42](https://42.fr/) (São Paulo - SP, Brazil). </br>
 With 1 year of experience in Business Inteligence, I've had the opportunity to work on some really cool projects and explore technologies.
 
 # 🚀 Expertise
@@ -30,3 +30,6 @@ Thank you for taking the time to learn about my skills.
 <div align=center>
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=solismesmo&theme=dark&hide_border=true&include_all_commits=false&count_private=false"width="364px"/>     <img src="https://github-readme-streak-stats.herokuapp.com/?user=solismesmo&theme=dark&hide_border=true" width="400px"/>
 <div/>
+
+# 🏅 42 École Badges:
+[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libfte.png)](https://github.com/riceset/libft)
