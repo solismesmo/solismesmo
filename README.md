@@ -33,9 +33,7 @@ Thank you for taking the time to learn about my skills.
  
 # 🏅 42 École Badges:
 
-<a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/piscine.png' usemap="" alt='Hi' width="150"/></a>
-[![Libft](https://github.com/solismesmo/solismesmo/blob/main/42_badges/libftm.png)](https://github.com/solismesmo/42_Libft)
-
-
+<a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/piscine.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/libftm.png' usemap="" alt='Hi' width="100"/></a>
 
 
