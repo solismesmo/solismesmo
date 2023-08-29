@@ -17,8 +17,6 @@ At 42, I am immersing myself in the intricacies of Software Engineering, where I
 
 Simultaneously, at EBAC, I am learning the art of creating user-friendly and visually appealing interfaces, ensuring that the end-users have an exceptional experience with the software and applications I design. I'm passionate about understanding user behaviors, conducting research, and crafting designs that seamlessly integrate form and function.
 
-Thank you for taking the time to learn about my skills. 
-
 # 📩 Contact me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solismesmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisleycosta)  
