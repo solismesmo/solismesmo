@@ -33,5 +33,5 @@ Simultaneously, at EBAC, I am learning the art of creating user-friendly and vis
 
 <a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/piscine.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/libftm.png' usemap="" alt='Hi' width="100"/></a>
-<a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/solismesmo/solemesmo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Hi' width="100"/></a>
 
