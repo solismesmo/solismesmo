@@ -7,10 +7,6 @@ I'm Lisley Costa, but you can call me just Lis. A data analysis and tech enthusi
 
 # 🚀 Expertise:
 
-As a Data Analysis and ETL Professional, with significant skills in Qlik Sense, QlikView, SQL, and dashboard construction. 
-My passion for data analysis and the ability to extract valuable insights from complex datasets have motivated me to seek challenging opportunities in this field. 
-In addition to my technical skills, I am also known for my teamwork, attention to detail, and commitment to meeting deadlines. 
-
 I'm currently pursuing a dual educational journey that combines the technical world of Software Engineering at [École 42](https://42.fr/) - [Sao Paulo](https://www.42sp.org.br) with the creative realm of User Experience (UX) and User Interface (UI) Design at [EBAC](https://ebaconline.com.br/).
 
 At 42, I am immersing myself in the intricacies of Software Engineering, where I am developing a strong foundation in coding, problem-solving, and software development practices. This rigorous program not only equips me with technical skills, it also fuels my ability to think critically and work collaboratively on complex projects.
@@ -34,4 +30,5 @@ Simultaneously, at EBAC, I am learning the art of creating user-friendly and vis
 <a href="https://github.com/solismesmo/42_Piscine"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/piscine.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Libft"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/libftm.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_GNL"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/get_next_linem.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Printf"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/ft_printfe.png' usemap="" alt='Hi' width="100"/></a> 
 
