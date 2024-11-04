@@ -15,4 +15,4 @@ I'm Lisley Costa, but you can call me just Lis. A data analysis and tech enthusi
 <a href="https://github.com/solismesmo/42_Fractol"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/fract-olm.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Pipex"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/pipexe.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_PS"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/push_swape.png' usemap="" alt='Hi' width="100"/></a>
-
+<a href="https://github.com/solismesmo/42_Minishell"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/minishell.png' usemap="" alt='Hi' width="100"/></a>
