@@ -21,3 +21,5 @@ I'm Lisley Costa, but you can call me just Lis. My passion for the data universe
 <a href="https://github.com/solismesmo/42_Pipex"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/pipexe.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_PS"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/push_swape.png' usemap="" alt='Hi' width="100"/></a>
 <a href="https://github.com/solismesmo/42_Minishell"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/minishell.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Philosophers"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/philosopherse.png' usemap="" alt='Hi' width="100"/></a>
+<a href="https://github.com/solismesmo/42_Cub3D"><img src='https://github.com/solismesmo/solismesmo/blob/main/42_badges/cub3de.png' usemap="" alt='Hi' width="100"/></a>
